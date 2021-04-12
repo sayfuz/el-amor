@@ -1,0 +1,14 @@
+body{
+    background: #0096c7;
+    background: linear-gradient(to right, #023e8a, #0096c7);
+}
+
+.bg{
+    background-image: url(../img/amor-y-yo.jpg);
+    background-position: center center;
+}
+
+.no-row{
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
